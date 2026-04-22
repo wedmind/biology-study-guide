@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Classifications of Animals Study Guide</title>
+</head>
+<body>
+
+    <h1>Classifications of Animal Kingdoms</h1>
+    <h2>There are different classifications of Animal Kingdoms</h2>
+    <p>There are namely:</p>
+    <ul>
+        <li>Kingdom Monera</li>
+        <li>KIngdom Protista</li>
+        <li>Kingdom Fungi</li>
+        <li>Kingdom Plantae</li>
+        <li>Kingdom Animalia</li>
+    </ul>
+
+    <hr>
+
+    <section>
+        <h3>Kingdom Monera</h3>
+        <img src="monera.jfif" alt="Monera Diagram" width="300">
+        <P>It are of single cell organism. 
+            They are called Procayote. </P>
+    </section>
+
+    <section>
+        <h3>Kingdom Protista</h3>
+        <img src="protista.jfif" alt="Diagram of protista" width="300">
+        <p>These Kingdon contains mostly of
+            single cell eurkayotic organism
+            which mostly consist of the 
+            Flagellum Facifarium, Euglena,
+            Paramesium e.t.c</p>
+    </section>
+
+    <section>
+        <h3>Kingdom Fungi</h3>
+        <img src="fungi.jfif" alt="Diagram of Fungi" width="300">
+        <p>This particular Kingdom conssist of Fungi
+            most fungi like mushroom are saprophytic</p>
+    </section>
+
+    <section>
+        <h3>Kingdom Plantea</h3>
+        <img src="plantae.jfif" alt="Diagram of Plantae" width="300">
+        <p>This kingdom is broad as
+            the name sugests it mainly
+            filled with plants.
+            <h4> There are different classification of plants
+                which we will discuss in our next class</h4> </p>
+    </section>
+
+    <section>
+        <h3>Kingdom Animalia</h3>
+        <img src="animalia.jfif" alt="A Diagram of Kingdom Animalia" width="300">
+        <p>This is the kingdom we Humans are under
+            it mainly composes of multi cellular organisms
+            There are two of types:
+            <ul>
+                <li>Invertebrates</li>
+                <li>Vertebrates</li>
+            </ul></p>
+    </section>
+
+    <hr>
+    <h5>I hope we have learnt something new today.
+        Stay tuned for more studies.
+        Thanks for Your Participation.
+    </h5>
+
+</body>
+</html>
+
+        
